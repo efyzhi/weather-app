@@ -42,7 +42,7 @@ export default function Home() {
         <Image
           src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
           layout="fill"
-          className="object-cover"
+          className="object-fill"
         />
 
         <div className="relative flex justify-between item-center max-w-[500px] w-[100%] m-auto pt-4 px-4 text-white z-10">
