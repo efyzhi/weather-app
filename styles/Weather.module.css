@@ -1,0 +1,52 @@
+.box {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 500px;
+    width: 100%;
+    height: 90vh;
+    margin: auto;
+    padding: 1.5rem;
+    color: white;
+    z-index: 10;
+}
+
+.fig {
+    font-size: 1.5rem;
+}
+
+.ttemp {
+    font-size: 5.5rem;
+}
+
+.bottom {
+    background-color: black;
+    opacity: 0.5;
+    position: relative;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.bottomName {
+    text-align: center;
+    padding-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+
+.bott {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+.bottOne {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.bottTwo {
+    font-size: 1rem;
+}
